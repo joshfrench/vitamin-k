@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  weight_g: 9.99
+  measure: MyString
+  vitamin_k_per_measure: 9.99
+
+two:
+  description: MyString
+  weight_g: 9.99
+  measure: MyString
+  vitamin_k_per_measure: 9.99
